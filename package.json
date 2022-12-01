@@ -1,0 +1,26 @@
+{
+  "name": "protecto-node",
+  "version": "1.0.0",
+  "description": "Creacion de proyecto con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesuduque/protecto-node.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "Lenny Susana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesuduque/protecto-node/issues"
+  },
+  "homepage": "https://github.com/lesuduque/protecto-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
